@@ -11,7 +11,7 @@ Welcome to the SDBC-Tech GitHub repository! This repository is dedicated to proj
 
 ## About
 
-[College Organization Name] is a [describe your organization's focus or purpose, e.g., "student-run software development group," "science and research hub," etc.]. Our mission is to [briefly state your organization's mission or objectives].
+Sushila Devi Bansal College is a computer science organization's focus or purpose, e.g., "student-run software development group," "science and research hub," etc. Our mission is to [briefly state your organization's mission or objectives].
 
 ## Getting Started
 
