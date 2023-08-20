@@ -44,8 +44,8 @@ This project is licensed under the [name of your chosen license, e.g., MIT Licen
 
 If you have any questions, feel free to reach out to us:
 
-- Email: [your@email.com]
+- Email: sdbctechclub@gmail.com
 - Twitter: [@yourTwitterHandle]
 - Join our [Discord](link-to-discord) community for discussions and updates.
 
-Thank you for your interest in [College Organization Name]!
+Thank you for your interest in SDBC CS Organization!
